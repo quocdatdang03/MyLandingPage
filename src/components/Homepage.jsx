@@ -77,6 +77,7 @@ const Homepage = () => {
             Please make sure to follow the rules and guidelines mentioned so you
             can redeem your rewards.
           </h1>
+          <h1>.</h1>
         </div>
       </div>
     </div>
