@@ -20,7 +20,7 @@ const Homepage = () => {
         <div className="">
           <a
             className="inline-block bg-[#de2125] text-black text-3xl font-bold px-[8px] py-4 rounded-md shadow-2xl hover:shadow-[0_10px_20px_rgba(0,0,0,0.6)] transition-shadow duration-300"
-            href="https://tailwindcss.com/docs/guides/vite"
+            href="https://dantri.com.vn/"
           >
             How it Works
           </a>
