@@ -1,6 +1,6 @@
 import React from "react";
 import logoBestBuy from "../assets/images/logobestbuy.png";
-import imageNewWeb from "../assets/images/imageNewWeb.jpg";
+import imageNewWeb from "../assets/images/imageNewWeb.png";
 import {
   faCircleCheck,
   faShoppingCart,
