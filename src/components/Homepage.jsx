@@ -9,7 +9,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Homepage = () => {
   const handleNavigateToLink = () => {
-    window.location.href = "https://dantri.com.vn/";
+    window.location.href =
+      "https://glstrck.com/aff_c?offer_id=666&aff_id=41083";
   };
 
   return (
