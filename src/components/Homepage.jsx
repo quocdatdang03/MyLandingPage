@@ -8,12 +8,17 @@ import {
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Homepage = () => {
+  const handleNavigateToLink = () => {
+    window.location.href = "https://dantri.com.vn/";
+  };
+
   return (
     <div>
       <img
-        className="w-[100vw] h-[100vh] object-cover sm:object-contain"
+        className="w-[100vw] h-[100vh] object-cover sm:object-contain cursor-pointer"
         src={imageNewWeb}
         alt={imageNewWeb}
+        onClick={handleNavigateToLink}
       />
     </div>
     // <div>
