@@ -11,7 +11,7 @@ const Homepage = () => {
   return (
     <div>
       <img
-        className="w-[100vw] h-[100vh] object-cover md:object-contain"
+        className="w-[100vw] h-[100vh] object-cover sm:object-contain"
         src={imageNewWeb}
         alt={imageNewWeb}
       />
